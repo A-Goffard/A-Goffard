@@ -1,4 +1,4 @@
- ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4CAF50&size=35&center=true&vCenter=true&width=1000&lines=Siempre+Aprendiendo;Ongi+Etorri)
+ ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4CAF50&size=35&center=true&vCenter=true&width=1000&lines=Siempre+Aprendiendo;Ongi+Etorri;Bienvenid@s)
 
  <!-------------------------------------------------------------------------------------------------------------------------------------------------------->
 
