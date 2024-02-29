@@ -1,4 +1,4 @@
- ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=BF1B79&size=35&center=true&vCenter=true&width=1000&lines=Siempre+Aprendiendo;Ongi+Etorri;Bienvenid@s)
+ ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1A7F37&size=35&center=true&vCenter=true&width=1000&lines=Siempre+Aprendiendo;Ongi+Etorri;Bienvenid@s)
 
  <!-------------------------------------------------------------------------------------------------------------------------------------------------------->
 
@@ -12,7 +12,7 @@
  <!-------------------------------------------------------------------------------------------------------------------------------------------------------->
 
 <p align="center">
-    <br/><br/><a href="https://www.linkedin.com/in/aintzane-goffard-sevillano/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-BF1B79?logo=linkedin&style=for-the-badge&logoColor=white" alt="LinkedIn Badge" /></a>
+    <br/><br/><a href="https://www.linkedin.com/in/aintzane-goffard-sevillano/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-1A7F37?logo=linkedin&style=for-the-badge&logoColor=white" alt="LinkedIn Badge" /></a>
     
 </p>
 
