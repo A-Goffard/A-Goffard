@@ -53,7 +53,8 @@
   <img src="https://img.shields.io/badge/-Jinja2-B41717?style=for-the-badge&logo=jinja&logoColor=white" alt="Jinja2" />
   <img src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
   <br />
-  <img src="https://camo.githubusercontent.com/c1ae794b8062fe71b7cb4cfd7181f6ac5748067a1b4de89cacf6632ada810d3d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5472656c6c6f2d3030353243433f7374796c653d666f722d7468652d6261646765266c6f676f3d7472656c6c6f266c6f676f436f6c6f723d7768697465" alt="TRELLO" style="max-width:100%;">
+<img src="https://img.shields.io/badge/-Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white" alt="Trello" />
+
 </p>
 
 
