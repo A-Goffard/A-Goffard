@@ -5,7 +5,8 @@
 # Información Personal
 
 - 👋 Hola, soy @A-Goffard, geóloga, formadora y divulgadora medioambiental.
-- 📚​ Actualmente estoy estudiando programación web full stack.
+- 🖥️ Soy programadora web full stack.
+- 📚​ Actualmente estoy aprendiendo Unity.
 - 👀 Estoy interesada en aprender todo lo que pueda para desarrollarme como programadora y científica al mismo tiempo.
 - 🌱 ¿Se pueden juntar la programación, la geología y el medioambiente? ¡Pues claro que sí!
 - 💞️ Buscaré mi manera.
