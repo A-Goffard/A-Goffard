@@ -4,12 +4,9 @@
 
 # Información Personal
 
-- 👋 Hola, soy @A-Goffard, geóloga, formadora y divulgadora medioambiental.
-- 🖥️ Soy programadora web full stack.
-- 📚​ Actualmente estoy aprendiendo Unity.
-- 👀 Estoy interesada en aprender todo lo que pueda para desarrollarme como programadora y científica al mismo tiempo.
-- 🌱 ¿Se pueden juntar la programación, la geología y el medioambiente? ¡Pues claro que sí!
-- 💞️ Buscaré mi manera.
+- 👋 Hola, soy Aintzane Goffard.
+- 🖥️ Soy programadora web full stack, geóloga, formadora y divulgadora medioambiental.
+- 🌱 ¿Se pueden juntar la programación y el medioambiente? 💞️ ¡Pues claro que sí!
 - 📫 Puedes contactar conmigo a través de: aintzagoffard@gmail.com
 
 ---
