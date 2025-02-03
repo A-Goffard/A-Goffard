@@ -11,7 +11,7 @@
 
 ---
 
-## Enlaces
+## Enlaces 🌈
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aintzane-goffard-sevillano/" target="_blank">
@@ -29,6 +29,11 @@
 
 ---
  ## Stack Tecnológico
+
+<p>
+  Este es el stack que he utilizado alguna vez en el proceso de aprendizaje, en el trabajo o en mis proyectos:
+</p>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
@@ -56,7 +61,8 @@
   <img src="https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
   <br />
   <img src="https://img.shields.io/badge/-Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
-
+  <img src="https://img.shields.io/badge/-SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SASS" />
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </p>
 
 
